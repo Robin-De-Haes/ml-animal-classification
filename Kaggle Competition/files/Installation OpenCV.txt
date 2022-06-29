@@ -1,0 +1,2 @@
+For the project: if you use conda for your virtual environments instead of a pip based environment, you will need to run conda install -c conda-forge opencv
+to install OpenCV, instead of the pip based equivalent 'pip install opencv-python'. Apparently conda deals with OpenCV in a different way than pip.
